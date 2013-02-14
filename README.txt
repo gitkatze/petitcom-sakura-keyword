@@ -1,17 +1,17 @@
-�T�N���G�f�B�^�̃v�`�R��(SMILEBASIC)�p�L�[���[�h�t�@�C���ł��B
-  petitcom.col (�F�w��p)
-  petitcom.kwd (�L�[���[�h)
-  petitcom.rkw (���K�\���L�[���[�h)
-  petitcom.rl  (���[���t�@�C��)
+サクラエディタのプチコン(SMILEBASIC)用キーワードファイルです。
+  petitcom.col (色指定用)
+  petitcom.kwd (キーワード)
+  petitcom.rkw (正規表現キーワード)
+  petitcom.rl  (ルールファイル)
 
-�����̃t�@�C����NYSL(�ς�Ȃ�Ă��Ȃ�D���ɂ��냉�C�Z���X)�Œ񋟂���Ă��܂��B
+これらのファイルはNYSL(煮るなり焼くなり好きにしろライセンス)で提供されています。
 
 
 2012-04-04
-�E�r�b�g���Z�q��ǉ�
+・ビット演算子を追加
 
 2012-04-02
-�EREADME.txt��ǉ�
-�E�L�[���[�h���ԈႦ�Ă����̂��C��
-�E���K�\���L�[���[�h�Łu�`$�v����/�V�X�e���ϐ����w��
+・README.txtを追加
+・キーワードが間違えていたのを修正
+・正規表現キーワードで「～$」命令/システム変数を指定
 
