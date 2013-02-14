@@ -1,0 +1,6 @@
+﻿// 正規表現キーワード Ver1
+RxKey[000]=RK4,/@?\w{16}\w+/k
+RxKey[001]=KW1,/(CHR|HEX|INKEY|LEFT|MID|RIGHT|STR|SUBST|TIME|DATE|MEM|PRGNAME|PACKAGE)\$/k
+RxKey[002]=RK1,/^@\w+/k
+RxKey[003]=RK2,/@\w+/k
+RxKey[004]=RK3,/\w+\$/k
