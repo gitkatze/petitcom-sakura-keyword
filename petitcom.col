@@ -1,5 +1,4 @@
 ﻿; テキストエディタ色設定 Ver3
-; プチコン (SMILE BASIC) 用
 
 [SakuraColor]
 C[BRC]=1,1,000080,f0fbff,0
@@ -29,11 +28,11 @@ C[MOD]=1,1,ff0000,efefef,0
 C[MRK]=1,0,f0fbff,c08000,0
 C[NUM]=1,0,0000eb,f0fbff,0
 C[RAP]=1,0,ff00ff,f0fbff,0
-C[RK1]=1,0,80ffff,808000,0
+C[RK1]=1,0,80ffff,808000,1
 C[RK2]=1,0,808000,f0fbff,0
 C[RK3]=1,0,ff0000,f0fbff,0
 C[RK4]=1,1,0000ff,f0fbff,1
-C[RK5]=0,0,ff0000,f0fbff,0
+C[RK5]=1,0,ff0000,f0fbff,0
 C[RK6]=0,0,ff0000,f0fbff,0
 C[RK7]=0,0,ff0000,f0fbff,0
 C[RK8]=0,0,ff0000,f0fbff,0
@@ -42,12 +41,12 @@ C[RKA]=0,0,ff0000,f0fbff,0
 C[RUL]=1,0,000000,efefef,0
 C[SEL]=1,0,c56a31,c56a31,0
 C[SPC]=0,0,c0c0c0,f0fbff,0
-C[SQT]=1,0,808040,f0fbff,0
+C[SQT]=0,0,808040,f0fbff,0
 C[TAB]=1,0,808080,f0fbff,0
 C[TXT]=1,0,000000,f0fbff,0
 C[UND]=1,0,ff0000,f0fbff,0
 C[URL]=1,0,ff0000,f0fbff,1
 C[VER]=1,0,c0c0c0,f0fbff,0
-C[WQT]=1,0,400080,f0fbff,0
+C[WQT]=0,0,400080,f0fbff,0
 C[ZEN]=1,0,c0c0c0,f0fbff,0
 
